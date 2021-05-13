@@ -11,3 +11,5 @@ Hi, I'm Jeff, a self-taught developer from <img src="/meta/images/germany.svg" /
 <a href="https://twitter.com/jeffsaupe/">
   <img alt="Jeff's Twitter" src="/meta/images/twitter.svg" />
 </a>
+
+[![](/meta/images/discord.svg)](https://discord.com/users/165474051706454016/) [![](/meta/images/twitter.svg)](https://twitter.com/jeffsaupe/)
